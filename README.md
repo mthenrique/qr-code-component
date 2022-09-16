@@ -24,4 +24,4 @@ I used this initial challenge to recap some css properties to align elements on 
 ## Author
 
 - Linkedin - [Mateus Oliveira](https://www.linkedin.com/in/mthenrique/)
-- Frontend Mentor - [@mthenrique](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@mthenrique](https://www.frontendmentor.io/profile/mthenrique)
